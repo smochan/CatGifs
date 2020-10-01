@@ -25,7 +25,7 @@ export let cats = [
     'https://media.giphy.com/media/7VZrSiHHHUlKU/giphy.gif',
     'https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif',
     'https://media.giphy.com/media/FatZQeOFWW8E0/giphy.gif',
-    'https://media.giphy.com/media/KjqnOCVXbIkiA/giphy.gif', 
+    'https://media.giphy.com/media/KjqnOCVXbIkiA/giphy.gif',
     'https://media.giphy.com/media/ND6xkVPaj8tHO/giphy.gif',
     'https://media.giphy.com/media/KAhqdjgzVptM4/giphy.gif',
     'https://media.giphy.com/media/CPlkqEvq8gRDW/giphy.gif',
@@ -72,5 +72,6 @@ export let cats = [
     'https://media.tenor.com/images/800a46ca3a946f908b8a5c7cd2eabe35/tenor.gif',
     'https://media.giphy.com/media/nR4L10XlJcSeQ/giphy.gif',
     'https://media.tenor.com/images/bbac2594edd848f3b1a58bdf87b5bb7b/tenor.gif',
-    'https://thumbs.gfycat.com/KnobbyImperfectCoypu-small.gif'
+    'https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif',
+    'https://thumbs.gfycat.com/KnobbyImperfectCoypu-small.gif',
 ];
