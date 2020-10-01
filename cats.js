@@ -82,5 +82,6 @@ export let cats = [
     'https://thumbs.gfycat.com/IncomparableWelltodoEthiopianwolf-size_restricted.gif',
     'https://thumbs.gfycat.com/FalseBowedAfricanharrierhawk-size_restricted.gif',
     'https://thumbs.gfycat.com/SpotlessGlisteningBullmastiff-max-1mb.gif',
-    'https://thumbs.gfycat.com/KnobbyImperfectCoypu-small.gif'
+    'https://thumbs.gfycat.com/KnobbyImperfectCoypu-small.gif',
+    'https://media.giphy.com/media/PibhPmQYXZ7HO/giphy.gif'
 ];
