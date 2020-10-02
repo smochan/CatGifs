@@ -80,5 +80,6 @@ export let cats = [
     'https://media.giphy.com/media/11V54nIH3eDQK4/giphy.gif',
     'https://media.giphy.com/media/YmVNzDnboB0RQEpmLr/giphy.gif',
     'https://media.giphy.com/media/33OrjzUFwkwEg/giphy.gif',
-    'https://media.giphy.com/media/q1MeAPDDMb43K/giphy.gif'
+    'https://media.giphy.com/media/q1MeAPDDMb43K/giphy.gif',
+    'https://media.giphy.com/media/12PA1eI8FBqEBa/giphy.gif'
 ];
