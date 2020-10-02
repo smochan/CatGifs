@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', yall({
     observeChanges: true
 }));
 
-new Vue({
+window.app = new Vue({
     el: '#cats',
     data: {
         loaded: 12,
