@@ -8,7 +8,7 @@ window.app = new Vue({
     el: '#cats',
     data: {
         loaded: 12,
-        cats: _.shuffle(cats)
+        cats: _.shuffle(_.uniq(cats))
     },
     methods: {
         load() {
