@@ -79,4 +79,11 @@ export let cats = [
     'https://media.giphy.com/media/PibhPmQYXZ7HO/giphy.gif',
     'https://media.giphy.com/media/11V54nIH3eDQK4/giphy.gif',
     'https://media.giphy.com/media/YmVNzDnboB0RQEpmLr/giphy.gif'
+    'https://media.tenor.com/images/2d04425c74a3285dc6f9b3b602039eaf/tenor.gif'
+    'https://media.tenor.com/images/a7f1f17822c4f7bbe5412fb1c4043c2c/tenor.gif'
+    'https://media.tenor.com/images/17361f59edf369c1852d90c1adf3d4e1/tenor.gif'
+    'https://media.tenor.com/images/18d9bf55a5380e9e2f0bcea249a3041e/tenor.gif'
+    'https://media.tenor.com/images/2d45b2e842cac286aa91cec91a7a17d7/tenor.gif'
+    'https://media.tenor.com/images/33845bc4ed116b73a6815d9cf8873972/tenor.gif'
+    'https://media.tenor.com/images/0bf9f8b30915013c24006392eb14e1d2/tenor.gif'
 ];
