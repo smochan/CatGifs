@@ -27,7 +27,7 @@ export let cats = [
 
 ## 4. ⏰ Wait. Your changes will be merged soon!
 
-### `[alan](https://github.com/andrejarrell/CatGifs/tree/alan)` Branch
+### [`alan`](https://github.com/andrejarrell/CatGifs/tree/alan) Branch
 
 Giving a shoutout to alan for his version of the site that use's giphy's api to load the gifs
 
