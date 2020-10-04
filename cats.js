@@ -1,5 +1,6 @@
 export let cats = [
     'https://media.giphy.com/media/pneO9VNo2Pym9RW6e2/giphy.gif',
+    'https://media.giphy.com/media/DRNsbfCHNznxe/giphy.gif',
     'https://media.giphy.com/media/Ov5NiLVXT8JEc/giphy.gif',
     'https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif',
     'https://media.giphy.com/media/3o72EX5QZ9N9d51dqo/giphy.gif',
