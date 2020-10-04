@@ -1,5 +1,6 @@
 export let cats = [
     'https://media.giphy.com/media/pneO9VNo2Pym9RW6e2/giphy.gif',
+    'https://media.giphy.com/media/DRNsbfCHNznxe/giphy.gif',
     'https://media.giphy.com/media/Ov5NiLVXT8JEc/giphy.gif',
     'https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif',
     'https://media.giphy.com/media/3o72EX5QZ9N9d51dqo/giphy.gif',
@@ -94,4 +95,10 @@ export let cats = [
     'https://media.giphy.com/media/12PA1eI8FBqEBa/giphy.gif',
     'https://media.giphy.com/media/EtUPIzT4rM8RmdLfHG/giphy.gif',
     'https://media.giphy.com/media/26FPvntWVkwaRWgXS/giphy.gif',
+    'https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif',
+    'https://media.giphy.com/media/hvS1eKlR75hMr0l7VJ/giphy.gif',
+    'https://media.giphy.com/media/K1tgb1IUeBOgw/giphy.gif',
+    'https://media.giphy.com/media/12ELmx0C4EFKcE/giphy.gif',
+    'https://media.giphy.com/media/CF93EZqOxjdHG/giphy.gif',
+    'https://media.giphy.com/media/EE185t7OeMbTy/giphy.gif'
 ];
